@@ -1,0 +1,12 @@
+
+
+<FiMenu size=(30) classNam='md:hidden'/>
+<**--REACT ICON = FiMenu**>
+<div className='hidden md:flex gap-10 tracking-wider text-gray'>
+<Link href="/"><a className='hover:text-green-700'>Home</a></Link>
+<Link href="/"><a className='hover:text-green-700'>About</a></Link>
+<Link href="/"><a className='hover:text-green-700'>Service</a></Link>
+<Link href="/"><a className='hover:text-green-700'>Clients</a></Link>
+<Link href="/"><a className='hover:text-green-700'>Investor Relation</a></Link>
+<Link href="/"><a className='hover:text-green-700'>Contact us</a></Link>
+</div>
